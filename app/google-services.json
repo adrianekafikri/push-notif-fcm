@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "312431138143",
+    "firebase_url": "https://push-notif-bbf69.firebaseio.com",
+    "project_id": "push-notif-bbf69",
+    "storage_bucket": "push-notif-bbf69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312431138143:android:edaad8d22b3c7b2b",
+        "android_client_info": {
+          "package_name": "com.lab.electrif.pushnotiffcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312431138143-6e0irmej03bjr2p91krpvbe42bqrsfia.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "312431138143-6e0irmej03bjr2p91krpvbe42bqrsfia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvUGL3IOIyuQBbLIIs8aBOyWEyPYfv6RE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
